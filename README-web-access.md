@@ -75,7 +75,11 @@ sequenceDiagram
     IF -->> USER: ...    
 ```
 
-# Example NodeJS app for normal SSH tunnel
+## Dynamic proxy in Nginx
+
+https://codex.so/resolving-subdomains-dynamically-via-nginx
+
+## Example NodeJS app for normal SSH tunnel
 
 ```typescript
 import tunnelSSH, { createTunnel } from 'tunnel-ssh';
